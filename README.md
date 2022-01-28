@@ -1,8 +1,8 @@
-# kattis_workspace
+# Kattis Workspace
 Workspace for Open Kattis Problems
 
 
-**Odd Echo**
+# Odd Echo 
 | Name| Value|
 |----------------|:---------------------------------------|
 | **Name**       |Odd Echo|
