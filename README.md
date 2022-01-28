@@ -2,7 +2,7 @@
 Workspace for Open Kattis Problems
 
 
-# Odd Echo 
+**Odd Echo** 
 | Name| Value|
 |----------------|:---------------------------------------|
 | **Name**       |Odd Echo|
@@ -11,7 +11,7 @@ Workspace for Open Kattis Problems
 | **Status**     |Done|
 | **Location**   |https://github.com/MiaWeber25/kattis_workspace/tree/main/oddEcho|
 
-# Speed Limit 
+**Speed Limit**
 | Name| Value|
 |----------------|:---------------------------------------|
 | **Name**       |Speed Limit|
