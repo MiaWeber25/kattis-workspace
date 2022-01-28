@@ -1,5 +1,6 @@
 # Kattis Workspace
 Workspace for Open Kattis Problems
+*see more kattis work for CSCI 112 HERE: https://github.com/MiaWeber25/CS1-mweber/tree/main/kattis
 
 
 **Odd Echo** 
