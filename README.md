@@ -29,5 +29,5 @@ Workspace for Open Kattis Problems
 | **Description**|https://open.kattis.com/problems/aboveaverage|
 | **Date**   |29-Jan-2022|
 | **Status**     |Done|
-| **Location**   |https://github.com/MiaWeber25/kattis_workspace/tree/main/speedLimit|
+| **Location**   |https://github.com/MiaWeber25/kattis_workspace/tree/main/aboveAverage|
 
